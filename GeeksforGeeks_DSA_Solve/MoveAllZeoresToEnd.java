@@ -1,4 +1,3 @@
-package GeeksforGeeks_DSA_Solve;
 
 public class MoveAllZeoresToEnd {
     public void pushZerosToEnd(int[] arr) {
