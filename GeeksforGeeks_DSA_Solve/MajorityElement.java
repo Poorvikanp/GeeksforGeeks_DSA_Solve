@@ -24,9 +24,6 @@ class MajorityElement {
         Collections.sort(result);
         return result;
     }
-
-
-
     public static void main(String[] args) {
     MajorityElement solution = new MajorityElement();
         
