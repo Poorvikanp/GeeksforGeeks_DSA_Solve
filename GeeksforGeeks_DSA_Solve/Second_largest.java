@@ -1,5 +1,5 @@
 
-package GeeksforGeeks_DSA_Solve;
+
 import  java.util.Arrays;
 public class Second_largest {
     public static int getSecondLargest(int[] arr) {
